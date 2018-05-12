@@ -8,3 +8,7 @@ scoop bucket add ubclaunchpad https://github.com/ubclaunchpad/scoop-bucket
 scoop search $APP
 scoop install $APP
 ```
+
+## Available Apps
+
+- [**`inertia`**](https://github.com/ubclaunchpad/inertia) — Simple, self-hosted continuous deployment

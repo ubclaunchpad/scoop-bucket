@@ -1,2 +1,5 @@
 # Global repository owners
 * @bobheadxi
+
+# Per-app owners
+inertia.json  @ubclaunchpad/inertia
