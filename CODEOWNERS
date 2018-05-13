@@ -2,4 +2,5 @@
 * @bobheadxi
 
 # Per-app owners
-inertia.json  @ubclaunchpad/inertia
+inertia.json    @ubclaunchpad/inertia
+cumulus.json    @ubclaunchpad/cumulus

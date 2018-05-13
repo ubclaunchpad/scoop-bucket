@@ -12,3 +12,5 @@ scoop install $APP
 ## Available Apps
 
 - [**`inertia`**](https://github.com/ubclaunchpad/inertia) — Simple, self-hosted continuous deployment
+
+- [**`cumulus`**](https://github.com/ubclaunchpad/cumulus) — Cryptocurrency that doesn't waste your time
