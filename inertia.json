@@ -1,5 +1,5 @@
 {
-    "version": "0.6.2",
-    "url": "https://github.com/ubclaunchpad/inertia/releases/download/v0.6.2/inertia.v0.6.2.windows.386.exe",
+    "version": "v0.7.0",
+    "url": "https://github.com/ubclaunchpad/inertia/releases/download/v0.7.0/inertia.v0.7.0.windows.386.exe",
     "bin": "inertia.exe"
 }
